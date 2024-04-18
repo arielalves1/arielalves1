@@ -40,9 +40,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-<!--
+
 
 
 ![](https://leetcard.jacoblin.cool/arielalves1?ext=heatmap)
--->
+
